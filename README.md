@@ -142,10 +142,10 @@ The repository is organized into ten SQL files.
 
 | File | Purpose |
 |---|---|
-| [01.DDL's(1).sql](01.DDL's(1).sql) | Table creation and database structure |
-| [02.Data_quality_checks.sql](02.Data_quality_checks.sql) | Data quality investigation and analytical views |
-| [03.Revenue & Sales Analysis.sql](03.Revenue & Sales Analysis.sql) | Revenue contribution, AOV, rankings, and growth |
-| [04.Customer Analysis.sql](04.Customer Analysis.sql) | Purchasing behavior, repeat customers, and customer value |
+| 01.DDL's.sql | Table creation and database structure |
+| 02.Data_quality_checks.sql | Data quality investigation and analytical views |
+| 03.Revenue & Sales Analysis.sql | Revenue contribution, AOV, rankings, and growth |
+| 04.Customer Analysis.sql | Purchasing behavior, repeat customers, and customer value |
 | 05.Product Analysis.sql | Product, brand, category, and refund performance |
 | 06.Marketing & Campaign Analysis.sql | Campaign revenue, orders, and conversion |
 | 07.Country or Market Analysis.sql | Country-level performance and market comparisons |
