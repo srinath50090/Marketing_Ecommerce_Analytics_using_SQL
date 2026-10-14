@@ -183,4 +183,21 @@ The project also reinforced the importance of data quality, clearly defined metr
 
 The SQL files contain the table definitions, data quality logic, and business-question-driven analytical queries used throughout the project.
 
-**If you are a recruiter, analyst, or fellow learner, I welcome feedback on my SQL approach, metric definitions, and analytical reasoning.**
+
+
+## 🤝 Open to Opportunities
+
+I am currently looking for **Data Analyst, Business Analyst, BI Analyst, Reporting Analyst, or other data-related internship and full-time opportunities**.
+
+If you have an opportunity, feedback on my project, or would like to connect, feel free to reach out.
+
+[LinkedIn](https://www.linkedin.com/in/srinathvenkatachalam/)
+
+[Github](https://github.com/srinath50090/)
+
+Email : srinath50090@gmail.com
+
+
+I would love to learn, contribute to a team, and apply my analytical skills to real-world business problems.
+
+
