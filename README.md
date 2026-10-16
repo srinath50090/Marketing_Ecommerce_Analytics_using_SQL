@@ -197,6 +197,17 @@ If you have an opportunity, feedback on my project, or would like to connect, fe
 
 Email : srinath50090@gmail.com
 
+---
+
+**Other Projects**
+
+* [Marketing Performance Analytics](https://github.com/srinath50090/Marketing-Performance-Analysis)
+
+* [Revenue, Customer, Product & Campaign Analytics](https://github.com/srinath50090/Revenue-Customer-Product-Campaign-analysis)
+
+* [Introvert Extrovert Personality Prediction using Machine Learning](https://github.com/srinath50090/Introvert-Extrovert-Personality-Prediction-Using-Machine-Learning)
+
+and etc.
 
 I would love to learn, contribute to a team, and apply my analytical skills to real-world business problems.
 
